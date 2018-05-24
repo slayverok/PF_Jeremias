@@ -16,6 +16,7 @@
 		18B1D5F420B67559000E10DD /* PF_JeremiasUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B1D5F320B67559000E10DD /* PF_JeremiasUITests.swift */; };
 		18B1D60220B68ECB000E10DD /* GimnasiosController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B1D60120B68ECB000E10DD /* GimnasiosController.swift */; };
 		18B1D60420B696DB000E10DD /* DetalleGymController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B1D60320B696DB000E10DD /* DetalleGymController.swift */; };
+		18B1D60620B6A6A4000E10DD /* RankingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B1D60520B6A6A4000E10DD /* RankingController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		18B1D5F520B67559000E10DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18B1D60120B68ECB000E10DD /* GimnasiosController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GimnasiosController.swift; sourceTree = "<group>"; };
 		18B1D60320B696DB000E10DD /* DetalleGymController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalleGymController.swift; sourceTree = "<group>"; };
+		18B1D60520B6A6A4000E10DD /* RankingController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankingController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				18B1D5DF20B67559000E10DD /* Info.plist */,
 				18B1D60120B68ECB000E10DD /* GimnasiosController.swift */,
 				18B1D60320B696DB000E10DD /* DetalleGymController.swift */,
+				18B1D60520B6A6A4000E10DD /* RankingController.swift */,
 			);
 			path = PF_Jeremias;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18B1D60220B68ECB000E10DD /* GimnasiosController.swift in Sources */,
+				18B1D60620B6A6A4000E10DD /* RankingController.swift in Sources */,
 				18B1D60420B696DB000E10DD /* DetalleGymController.swift in Sources */,
 				18B1D5D620B67558000E10DD /* ViewController.swift in Sources */,
 				18B1D5D420B67558000E10DD /* AppDelegate.swift in Sources */,
